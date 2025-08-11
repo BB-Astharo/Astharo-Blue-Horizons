@@ -2,8 +2,7 @@
     "predicates": {
 		"label": {
 			"regex": "Crafting"
-		},
-		"screenType": "minecraft:inventory"
+		}
 	},
     "background": {
 		"texture": "blue:textures/gui/container/inventory.png",
