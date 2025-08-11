@@ -1,0 +1,9 @@
+{
+    "defaultColor": -12632257,
+	"overrides": [
+		{
+			"predicate": {"regex": ".*"},
+			"override": -2960686
+		}
+	]
+}

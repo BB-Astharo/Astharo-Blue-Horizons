@@ -1,0 +1,45 @@
+{
+    "predicates": {
+		"label": {
+			"regex": "Crafting"
+		},
+		"screenType": "minecraft:inventory"
+	},
+    "background": {
+		"texture": "blue:textures/gui/container/inventory.png",
+		"x": -160,
+		"y": -160,
+		"width": 512,
+		"height": 512
+	},
+	"containerTitle": {
+		"replace": ""
+	},
+	"slots": [
+		{
+			"index": 0,
+			"x": 145,
+			"y": 29
+		},
+		{
+			"index": 1,
+			"x": 101,
+			"y": 20
+		},
+		{
+			"index": 2,
+			"x": 119,
+			"y": 20
+		},
+		{
+			"index": 3,
+			"x": 101,
+			"y": 38
+		},
+		{
+			"index": 4,
+			"x": 119,
+			"y": 38
+		}
+	]
+}
