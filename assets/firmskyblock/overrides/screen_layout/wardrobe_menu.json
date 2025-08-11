@@ -1,0 +1,22 @@
+{
+    "predicates": {
+		"label": {
+			"regex": "Wardrobe \\(\\d+\/\\d+\\)"
+		}
+	},
+    "background": {
+		"texture": "blue:textures/gui/container/wardrobe_menu.png",
+		"x": -160,
+		"y": -160,
+		"width": 512,
+		"height": 512
+	},
+	"containerTitle": {
+		"x": 88,
+		"y": 3,
+		"align": "center"
+	},
+	"playerTitle": {
+		"replace": ""
+	}
+}
