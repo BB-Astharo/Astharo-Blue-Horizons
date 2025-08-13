@@ -2,7 +2,7 @@
   "pack": {
     "pack_format": 55,
     "supported_formats": {"min_inclusive": 55, "max_inclusive": 55},
-    "description": "Astharo's Blue resourcepack for Hypixel Skyblock (Minecraft 1.21.5)"
+    "description": "Made by \u00A73Astharo85\u00A7r\nRequires \u00A75Firmament\u00A7r for 1.21.5"
   },
   "firmament:pack": {
     "format": 1
