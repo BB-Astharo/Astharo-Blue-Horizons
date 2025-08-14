@@ -1,0 +1,22 @@
+{
+    "predicates": {
+		"label": {
+			"regex": "Your Stats Breakdown"
+		}
+	},
+    "background": {
+		"texture": "blue:textures/gui/skyblock/skyblock_menu/skyblock_profile/stats/stats_breakdown_menu.png",
+		"x": -160,
+		"y": -160,
+		"width": 512,
+		"height": 512
+	},
+	"containerTitle": {
+		"x": 88,
+		"y": 3,
+		"align": "center"
+	},
+	"playerTitle": {
+		"replace": ""
+	}
+}
