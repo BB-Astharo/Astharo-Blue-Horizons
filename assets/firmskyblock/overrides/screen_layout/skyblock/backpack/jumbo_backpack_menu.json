@@ -1,11 +1,11 @@
 {
     "predicates": {
 		"label": {
-			"regex": "Wardrobe \\(\\d+\/\\d+\\)"
+			"regex": "Jumbo Backpack .*"
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/wardrobe_menu.png",
+		"texture": "blue:textures/gui/skyblock/backpack/jumbo_backpack_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

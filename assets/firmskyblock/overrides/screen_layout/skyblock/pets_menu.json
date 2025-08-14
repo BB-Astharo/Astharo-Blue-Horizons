@@ -1,11 +1,11 @@
 {
     "predicates": {
 		"label": {
-			"regex": "Enchant Item"
+			"regex": "Pets \\(\\d+\/\\d+\\) "
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/enchant_item_menu.png",
+		"texture": "blue:textures/gui/skyblock/pets_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

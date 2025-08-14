@@ -1,11 +1,11 @@
 {
     "predicates": {
 		"label": {
-			"regex": "Large Backpack .*"
+			"regex": "Greater Backpack .*"
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/backpack/large_backpack_menu.png",
+		"texture": "blue:textures/gui/skyblock/backpack/greater_backpack_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

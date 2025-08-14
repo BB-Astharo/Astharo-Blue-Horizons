@@ -1,11 +1,11 @@
 {
     "predicates": {
 		"label": {
-			"regex": "Pets \\(\\d+\/\\d+\\) "
+			"regex": "Wardrobe \\(\\d+\/\\d+\\)"
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/pets_menu.png",
+		"texture": "blue:textures/gui/skyblock/wardrobe_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

@@ -5,7 +5,7 @@
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/fast_travel_menu.png",
+		"texture": "blue:textures/gui/skyblock/fast_travel_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

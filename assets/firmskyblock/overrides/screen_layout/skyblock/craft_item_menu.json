@@ -1,11 +1,11 @@
 {
-    "predicates": {
+	"predicates": {
 		"label": {
-			"regex": "Small Backpack .*"
+			"regex": "Craft Item"
 		}
 	},
-    "background": {
-		"texture": "blue:textures/gui/container/backpack/small_backpack_menu.png",
+	"background": {
+		"texture": "blue:textures/gui/skyblock/craft_item_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

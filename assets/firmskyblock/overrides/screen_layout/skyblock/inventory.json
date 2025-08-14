@@ -5,7 +5,7 @@
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/inventory.png",
+		"texture": "blue:textures/gui/skyblock/inventory.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

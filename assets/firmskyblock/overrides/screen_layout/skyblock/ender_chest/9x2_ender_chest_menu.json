@@ -1,11 +1,11 @@
 {
     "predicates": {
 		"label": {
-			"regex": "SkyBlock Menu"
+			"regex": "^Ender Chest \\((\\d+)\\/\\1\\)$"
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/skyblock_menu.png",
+		"texture": "blue:textures/gui/skyblock/ender_chest/9x2_ender_chest_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,
@@ -14,8 +14,7 @@
 	"containerTitle": {
 		"x": 88,
 		"y": 3,
-		"align": "center",
-		"replace": "SkyBlock Menu"
+		"align": "center"
 	},
 	"playerTitle": {
 		"replace": ""

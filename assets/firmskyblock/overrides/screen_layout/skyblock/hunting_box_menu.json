@@ -1,11 +1,11 @@
 {
     "predicates": {
 		"label": {
-			"regex": "Jumbo Backpack .*"
+			"regex": "Hunting Box"
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/backpack/jumbo_backpack_menu.png",
+		"texture": "blue:textures/gui/skyblock/hunting_box_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

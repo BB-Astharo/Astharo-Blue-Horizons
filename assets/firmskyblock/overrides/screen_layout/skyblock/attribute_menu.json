@@ -1,11 +1,11 @@
 {
     "predicates": {
 		"label": {
-			"regex": "Medium Backpack .*"
+			"regex": "Attribute Menu"
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/backpack/medium_backpack_menu.png",
+		"texture": "blue:textures/gui/skyblock/attribute_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

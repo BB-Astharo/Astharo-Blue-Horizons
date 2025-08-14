@@ -1,11 +1,11 @@
 {
     "predicates": {
 		"label": {
-			"regex": "Hunting Box"
+			"regex": "^Ender Chest \\((\\d+)\\/(?!\\1$)\\d+\\)$"
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/container/hunting_box_menu.png",
+		"texture": "blue:textures/gui/skyblock/ender_chest/9x6_ender_chest_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,
