@@ -1,0 +1,23 @@
+{
+    "predicates": {
+		"label": {
+			"regex": "SkyBlock Menu"
+		}
+	},
+    "background": {
+		"texture": "blue:textures/gui/skyblock/skyblock_menu/skyblock_menu.png",
+		"x": -160,
+		"y": -160,
+		"width": 512,
+		"height": 512
+	},
+	"containerTitle": {
+		"x": 88,
+		"y": 3,
+		"align": "center",
+		"replace": "SkyBlock Menu"
+	},
+	"playerTitle": {
+		"replace": ""
+	}
+}
