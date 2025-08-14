@@ -1,0 +1,119 @@
+{
+    "predicates": {
+		"label": {
+			"regex": "Your Equipment and Stats"
+		}
+	},
+    "background": {
+		"texture": "blue:textures/gui/skyblock/skyblock_menu/skyblock_profile/equipment_and_stats_menu.png",
+		"x": -160,
+		"y": -160,
+		"width": 512,
+		"height": 512
+	},
+	"containerTitle": {
+		"x": 88,
+		"y": 3,
+		"align": "center"
+	},
+	"playerTitle": {
+		"replace": ""
+	},
+	"slots": [
+		{
+			"index": 1,
+			"x": -100,
+			"y": -100
+		},
+		{
+			"index": 2,
+			"x": 62,
+			"y": 63
+		},
+		{
+			"index": 3,
+			"x": -100,
+			"y": -100
+		},
+		{
+			"index": 10,
+			"x": 26,
+			"y": 27
+		},
+		{
+			"index": 11,
+			"x": 44,
+			"y": 27
+		},
+		{
+			"index": 12,
+			"x": -100,
+			"y": -100
+		},
+		{
+			"index": 18,
+			"x": -100,
+			"y": -100
+		},
+		{
+			"index": 19,
+			"x": 26,
+			"y": 45
+		},
+		{
+			"index": 20,
+			"x": 44,
+			"y": 45
+		},
+		{
+			"index": 21,
+			"x": -100,
+			"y": -100
+		},
+		{
+			"index": 27,
+			"x": -100,
+			"y": -100
+		},
+		{
+			"index": 28,
+			"x": 26,
+			"y": 63
+		},
+		{
+			"index": 29,
+			"x": 44,
+			"y": 63
+		},
+		{
+			"index": 30,
+			"x": -100,
+			"y": -100
+		},
+		{
+			"index": 36,
+			"x": -100,
+			"y": -100
+		},
+		{
+			"index": 37,
+			"x": 26,
+			"y": 81
+		},
+		{
+			"index": 38,
+			"x": 44,
+			"y": 81
+		},
+		{
+			"index": 39,
+			"x": -100,
+			"y": -100
+		},
+		{
+			"index": 47,
+			"x": 62,
+			"y": 45
+		}
+	]
+}
