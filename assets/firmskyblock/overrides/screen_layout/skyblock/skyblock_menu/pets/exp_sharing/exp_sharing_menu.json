@@ -1,0 +1,22 @@
+{
+    "predicates": {
+		"label": {
+			"regex": "Exp Sharing"
+		}
+	},
+    "background": {
+		"texture": "blue:textures/gui/skyblock/skyblock_menu/pets/exp_sharing/exp_sharing_menu.png",
+		"x": -160,
+		"y": -160,
+		"width": 512,
+		"height": 512
+	},
+	"containerTitle": {
+		"x": 88,
+		"y": 3,
+		"align": "center"
+	},
+	"playerTitle": {
+		"replace": ""
+	}
+}
