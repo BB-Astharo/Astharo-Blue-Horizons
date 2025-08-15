@@ -1,11 +1,11 @@
 {
     "predicates": {
 		"label": {
-			"regex": "(\\w+( \\w+)*) ➜ Flat B(o(n(u(s(e(s)?)?)?)?)?)?"
+			"regex": "(\\w+( \\w+)*) ➜ Multi(p(l(i(c(a(t(i(v(e)?)?)?)?)?)?)?)?)?"
 		}
 	},
     "background": {
-		"texture": "blue:textures/gui/skyblock/skyblock_menu/skyblock_profile/stats/stat_flat_bonuses_menu.png",
+		"texture": "blue:textures/gui/skyblock/skyblock_menu/skyblock_profile/stats/stat_multiplicative_menu.png",
 		"x": -160,
 		"y": -160,
 		"width": 512,

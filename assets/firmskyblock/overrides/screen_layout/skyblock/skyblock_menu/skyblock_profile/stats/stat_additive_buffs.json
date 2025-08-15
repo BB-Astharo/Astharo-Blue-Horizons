@@ -1,7 +1,7 @@
 {
     "predicates": {
 		"label": {
-			"regex": "(\\w+( \\w+)*) ➜ Additive Buffs"
+			"regex": "(\\w+( \\w+)*) ➜ Additive B(u(f(f(s)?)?)?)?"
 		}
 	},
     "background": {
