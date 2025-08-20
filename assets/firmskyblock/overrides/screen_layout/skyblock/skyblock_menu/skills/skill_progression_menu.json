@@ -1,0 +1,22 @@
+{
+    "predicates": {
+		"label": {
+			"regex": "^(Combat|Farming|Fishing|Mining|Foraging|Enchanting|Alchemy|Carpentry|Runecrafting|Taming|Social|Hunting) Skill$"
+		}
+	},
+    "background": {
+		"texture": "blue:textures/gui/skyblock/skyblock_menu/skills/skill_progression_menu.png",
+		"x": -160,
+		"y": -160,
+		"width": 512,
+		"height": 512
+	},
+	"containerTitle": {
+		"x": 88,
+		"y": 3,
+		"align": "center"
+	},
+	"playerTitle": {
+		"replace": ""
+	}
+}
