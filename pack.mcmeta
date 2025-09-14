@@ -1,8 +1,7 @@
 {
   "pack": {
-    "pack_format": 55,
-    "supported_formats": {"min_inclusive": 55, "max_inclusive": 55},
-    "description": "Made by \u00A73Astharo85\u00A7r\nRequires \u00A75Firmament\u00A7r for 1.21.5"
+    "pack_format": 64,    
+    "description": "Made by \u00A73Astharo85\u00A7r\nRequires \u00A75Firmament\u00A7r for 1.21.8"
   },
   "firmament:pack": {
     "format": 1
