@@ -15,6 +15,10 @@ A 1.21 resourcepack that changes your Hypixel Skyblock menus to something fancie
 - Minecraft 1.21
 - Firmament mod
 
+## Links
+- Modrinth : https://modrinth.com/resourcepack/astharo-blue-horizons
+- Hypixel Forums : https://hypixel.net/threads/astharos-blue-horizons-1-21-menu-resourcepack.5995924/
+
 
 ## Additional information
 
